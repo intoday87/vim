@@ -11,5 +11,4 @@ set hls
 syntax enable
 vnoremap // y/<C-R>"<CR>
 set nu
-set -o vi
 ```
